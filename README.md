@@ -7,7 +7,7 @@ For English version, [click me](#genshin-hittherock)
 目前有一定的bug，如果有时间我可能会修复，如果有人愿意帮忙修复，欢迎PR。
 
 ## 展示视频  
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Xw4m1Y7cE&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[Bilibili 【基于LabVIEW的原神】](https://www.bilibili.com/video/BV1Xw4m1Y7cE/?share_source=copy_web&vd_source=a459d3ea923d50c5516e385c0ede0eba)
 
 ## 游玩指南  
 1. 下载安装包`Genshin-HitTheRock-install.zip`  
@@ -32,7 +32,7 @@ This repository is for personal use only and does not provide any form of techni
 There are currently some bugs, which I may fix if I have time. If anyone is willing to help fix them, PRs are welcome.
 
 ## Demo Video
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Xw4m1Y7cE&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[Bilibili 【基于LabVIEW的原神】](https://www.bilibili.com/video/BV1Xw4m1Y7cE/?share_source=copy_web&vd_source=a459d3ea923d50c5516e385c0ede0eba)
 
 ## How to Play
 1. Download the installation package `Genshin-HitTheRock-install.zip`  
